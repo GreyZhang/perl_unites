@@ -1,0 +1,6 @@
+*README
+- This script is used to remove the comment in a c/c++ file.
+** how to use
+- example to use: perl remove_comment.pl old.c new.c 
+- where old.c is the original code file and new.c is the new code file. If you use the same file name for input and output file name then the file will be updated.
+
